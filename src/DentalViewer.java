@@ -6,8 +6,18 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
+/**
+ * Dental Viewer Class extends JFrame
+ */
 public class DentalViewer extends JFrame {
+    /**
+     * Dental Hash Map contains dental service information
+     */
     private final HashMap<String, Dental> dentalHashMap = new HashMap<>();
+
+    /**
+     * Dental Viewer Constructor
+     */
     public DentalViewer() {
         //JFrame
         setTitle("Dental Schedule Fee Search");
