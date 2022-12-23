@@ -1,0 +1,234 @@
+CDT CODE~PROCEDURES~Begin date~End date~Max Pay Amt
+D0120~Periodic Oral Exam~4/1/2022~3/31/2023~$44.00
+D0140~Emergency/Limited Oral Exam~4/1/2022~3/31/2023~$32.00
+D0150~Comprehensive Oral Exam~4/1/2022~3/31/2023~$63.00
+D0160~Detailed and extensive oral evaluation‐ Problem focused- by report~4/1/2022~3/31/2023~$150.00
+D0170~Re‐Evaluation ‐ Limited- problem focused- established patient- not post‐operative~4/1/2022~3/31/2023~$50.00
+D0180~Comprehensive periodontal evaluation~4/1/2022~3/31/2023~$63.00
+D0190~Screening of a patient~4/1/2022~3/31/2023~$18.00
+D0191~Assessment of a patient~4/1/2022~3/31/2023~$18.00
+D0210~Full mouth series ‐ once per year~4/1/2022~3/31/2023~$105.00
+D0220~Periapical- single film~4/1/2022~3/31/2023~$24.00
+D0230~Periapical- each additional film~4/1/2022~3/31/2023~$15.00
+D0240~Occlusal film~4/1/2022~3/31/2023~$66.00
+D0270~Bitewing- single film~4/1/2022~3/31/2023~$13.00
+D0272~Bitewing- 2 films~4/1/2022~3/31/2023~$17.00
+D0273~Bitewing- 3 films~4/1/2022~3/31/2023~$20.00
+D0274~Bitewing- 4 films~4/1/2022~3/31/2023~$25.00
+D0330~Panoramic radiographic image~4/1/2022~3/31/2023~$68.00
+D0350~2D oral/facial photographic image obtained intra‐orally or extra‐orally~4/1/2022~3/31/2023~$70.00
+D0364~Cone beam CT Capture and Interpretation with limitied field of view- less that one whole jaw~4/1/2022~3/31/2023~$280.00
+D0365~Cone beam CT Capture and Interpretation with limitied field of view- one full dental arch‐ mandible~4/1/2022~3/31/2023~$300.00
+D0366~Cone beam CT Capture and Interpretation with limitied field of view- one full dental arch‐ maxilla~4/1/2022~3/31/2023~$300.00
+D0367~Cone beam CT Capture and Interpretation with field of view of both jaws- with or without cranium~4/1/2022~3/31/2023~$300.00
+D0386~Cone beam CT Capture and Interpretation for TMJ series including two or more exposures~4/1/2022~3/31/2023~$300.00
+D0460~Pulp vitality test~4/1/2022~3/31/2023~$30.00
+D0470~Diagnostic casts~4/1/2022~3/31/2023~$96.00
+D0473~Accession of tissue- gross and microscopic examination- preperation and transmission of written report~4/1/2022~3/31/2023~$140.00
+D0474~Accession of tissue- gross and microscopic examination- including assessment of surgical margins for presence of disease~4/1/2022~3/31/2023~$200.00
+D0475~Decalcification procedure~4/1/2022~3/31/2023~$230.00
+D0476~Special stains- for microorganisms~4/1/2022~3/31/2023~$220.00
+D0477~Special stains- not for microorganisms~4/1/2022~3/31/2023~$220.00
+D0478~Immunhohistochemical stains~4/1/2022~3/31/2023~$140.00
+D0482~Direct immunofluorescense~4/1/2022~3/31/2023~$180.00
+D1110~Adult prophylaxis- up to four a year~4/1/2022~3/31/2023~$98.00
+D1206~Topical application of fluoride varnish~4/1/2022~3/31/2023~$31.00
+D1208~Topical application of fluoride- excluding varnish~4/1/2022~3/31/2023~$37.00
+D1351~Sealant ‐ per tooth~4/1/2022~3/31/2023~$30.00
+D1354~Silver Diamine flouride treatment~4/1/2022~3/31/2023~$30.00
+D1999~Extra PPE due to COVID‐19~4/1/2022~3/31/2023~$15.00
+D2140~Amalgam ‐ 1 surface~4/1/2022~3/31/2023~$85.00
+D2150~Amalgam ‐ 2 surfaces~4/1/2022~3/31/2023~$113.00
+D2160~Amalgam ‐ 3 surfaces~4/1/2022~3/31/2023~$163.00
+D2161~Amalgam ‐ 4 or more surfaces~4/1/2022~3/31/2023~$163.00
+D2330~Resin‐based composite ‐ 1 surace ‐anterior~4/1/2022~3/31/2023~$125.00
+D2331~Resin‐based composite ‐ 2 surfaces‐ anterior~4/1/2022~3/31/2023~$140.00
+D2332~Resin‐based composite ‐ 3 surfaces ‐ anterior~4/1/2022~3/31/2023~$170.00
+D2335~Resin‐based composite ‐ 4 + surfaces or inolving incisal angle- anterior~4/1/2022~3/31/2023~$212.00
+D2390~Resin‐based composite crown- anterior~4/1/2022~3/31/2023~$151.00
+D2391~Resin‐based composite ‐ 1 surface‐ posterior~4/1/2022~3/31/2023~$125.00
+D2392~Resin‐based composite‐ 2 surfaces ‐ posterior~4/1/2022~3/31/2023~$160.00
+D2393~Resin‐based composite ‐ 3 surfaces‐ posterior~4/1/2022~3/31/2023~$192.00
+D2394~Resin‐based composite ‐ 4 + surfaces ‐ posterior~4/1/2022~3/31/2023~$227.00
+D2642~Onlay ‐ porcelain/ceramic ‐ 2 surfaces~4/1/2022~3/31/2023~$690.00
+D2643~Onlay ‐ porcelain/ceramic ‐ 3 surfaces~4/1/2022~3/31/2023~$700.00
+D2644~Onlay ‐ porcelain/ceramic ‐ 4 + surfaces~4/1/2022~3/31/2023~$744.00
+D2710~Crown ‐ resin‐based composite (indirect)~4/1/2022~3/31/2023~$329.00
+D2720~Crown ‐ resin with high noble metal~4/1/2022~3/31/2023~$468.00
+D2721~Crown‐ resin with predominantly base metal~4/1/2022~3/31/2023~$468.00
+D2722~Crown ‐ resin with noble metal~4/1/2022~3/31/2023~$468.00
+D2740~Crown ‐ porcelain/ceramic substrate *limit 1 per year- unless authorized*~4/1/2022~3/31/2023~$1,028.00
+D2750~Crown ‐ procelain fused to high noble metal *limit 1 per year- unless authorized*~4/1/2022~3/31/2023~$1,028.00
+D2751~Crown‐ porcelain fused to predominantly based metal *limit 1 per year- unless authorized*~4/1/2022~3/31/2023~$1,028.00
+D2752~Crown ‐ porcelain fused to noble metal *limit 1 per year- unless authorized*~4/1/2022~3/31/2023~$1,028.00
+D2790~Crown full cast high noble metal *limit 1 per year- unless authorized*~4/1/2022~3/31/2023~$1,028.00
+D2792~Crown full cast noble metal *limit 1 per year- unless authorized*~4/1/2022~3/31/2023~$1,028.00
+D2910~Re‐cement or re‐bond inlay- onlay- veneer or partial coverage restoration~4/1/2022~3/31/2023~$27.00
+D2920~Re‐cement or re‐bond crown~4/1/2022~3/31/2023~$32.00
+D2931~Prefabricated stainless steel crown ‐ permanent tooth~4/1/2022~3/31/2023~$143.00
+D2940~Sedative filling~4/1/2022~3/31/2023~$75.00
+D2941~Interim therapeutic restoration ‐ primary detention~4/1/2022~3/31/2023~$112.00
+D2950~Core buildup- including any pins when required~4/1/2022~3/31/2023~$200.00
+D2954~Prefabricated post and core in addition to crown~4/1/2022~3/31/2023~$259.00
+D2980~Crown repair neccesitated by restorative material failure~4/1/2022~3/31/2023~$200.00
+D2957~Each additional prefabricated post ‐ same tooth~4/1/2022~3/31/2023~$60.00
+D3110~Pulp cap‐ direct (excluding final restoration)~4/1/2022~3/31/2023~$130.00
+D3120~Pulp cap‐ indirect (excluding final restoration)~4/1/2022~3/31/2023~$152.00
+D3220~Therapeutic pulpotomy (exluding final restoration)~4/1/2022~3/31/2023~$153.00
+D3221~Pulpal debridement- primary and permanent teeth~4/1/2022~3/31/2023~$130.00
+D3230~Pulpal therapy (restorable filling) anterior‐primary tooth~4/1/2022~3/31/2023~$112.00
+D3240~Pulpal therapy (restorable filling) posterior‐primary tooth~4/1/2022~3/31/2023~$200.00
+D3310~Endodontic therapy- anterior tooth~4/1/2022~3/31/2023~$800.00
+D3320~Endodontic therapy- bicuspid tooth~4/1/2022~3/31/2023~$820.00
+D3330~Endodontic therapy- molar~4/1/2022~3/31/2023~$990.00
+D3331~Treatment of root canal obstruction- non‐surgical access~4/1/2022~3/31/2023~$454.00
+D3332~Incomplete endodontics therapy; inoperable- unrestorable or fractured tooth~4/1/2022~3/31/2023~$421.00
+D3346~Retreatment of previous root canal therapy ‐ anterior~4/1/2022~3/31/2023~$800.00
+D3347~Retreatment of previous rooth canal therapy‐ bicuspid *limit 1 per year- unless authorized*~4/1/2022~3/31/2023~$1,000.00
+D3348~Retreatment of previous root canal therapy‐ molar *limit 1 per year- unless authorized*~4/1/2022~3/31/2023~$1,100.00
+D3410~Apicoectomy/periadicular surgery ‐ anterior~4/1/2022~3/31/2023~$800.00
+D3421~Apicoectomy/periadicular surgery ‐ bicuspid ‐ 1st root~4/1/2022~3/31/2023~$900.00
+D3425~Apicoectomy/periadicular surgery ‐ molar ‐ 1st root~4/1/2022~3/31/2023~$1,000.00
+D3426~Apicoectomy/periadicular surgery ‐ each additional root~4/1/2022~3/31/2023~$324.00
+D3430~Retrograde filling ‐ per root~4/1/2022~3/31/2023~$379.00
+D4210~Gingivectomy or gingivoplasty ‐ 4 or more contiguous teeth~4/1/2022~3/31/2023~$340.00
+D4211~Gingivectomy or gingivoplasty ‐ 1‐3 contiguous teeth~4/1/2022~3/31/2023~$220.00
+D4240~Gingival flap procedure- including root planning ‐4 or more contiguous teeth~4/1/2022~3/31/2023~$771.00
+D4241~Gingival flap procedure- including root planning ‐1‐3 contiguous teeth~4/1/2022~3/31/2023~$608.00
+D4249~Clinical crown lengthening on hard tissue~4/1/2022~3/31/2023~$900.00
+D4260~Osseous surgery (including elevation of full thickness flap and closure)- 4 or more contiguous teeth or tooth bounded spaces per quadrant~4/1/2022~3/31/2023~$810.00
+D4261~Osseous surgery (including elevation of full thickness flap and closure)- 1‐3 contiguous teeth or tooth bounded spaces per quadrant~4/1/2022~3/31/2023~$620.00
+D4263~Bone‐replacement graft- retained natural tooth- 1st time in quadrant~4/1/2022~3/31/2023~$400.00
+D4264~Bone replacement graft- retained natural tooth- each additional site in quadrant~4/1/2022~3/31/2023~$250.00
+D4265~Biologic materials to aid in soft and osseous tissue regeneration~4/1/2022~3/31/2023~$300.00
+D4266~Guided tissue regeneration ‐ resorbable barrier ‐ per site~4/1/2022~3/31/2023~$540.00
+D4270~Pedicle soft tissue graft procedure~4/1/2022~3/31/2023~$600.00
+D4273~Autogenous connective tissue graft procedure (includig donor and recipient surgical sites) 1st tooth- implant or edentulous tooth position in graft~4/1/2022~3/31/2023~$760.00
+D4274~Mesial/distal wedge procedure- single tooth (when not performed in conjuntion w/ surgical procedures in the same anatomical area)~4/1/2022~3/31/2023~$475.00
+D4275~Non‐autogenous connective tissue graft procedure (including donor and recipient surgical sites) 1st tooth- implant or endentulous tooth position in graft~4/1/2022~3/31/2023~$724.00
+D4276~Combined connective tissue and double pedical graft- per tooh~4/1/2022~3/31/2023~$650.00
+D4277~Free soft tissue graft procedures (includig donor and recipient surgical sites) 1st tooth- implant or edentulous tooth position in graft~4/1/2022~3/31/2023~$695.00
+D4278~Autogenous connective tissue graft procedure (includig donor and recipient surgical sites) each additional contingous tooth- implant or edentulous tooth position in graft~4/1/2022~3/31/2023~$565.00
+D4283~Autogenous connective tissue graft procedure (includig donor and recipient surgical sites) each additional contingous tooth- implant or edentulous tooth position in graft~4/1/2022~3/31/2023~$675.00
+D4285~Non‐autogenous connective tissue graft procedure (including donor and recipient surgical sites) each addition contingous tooth- implant or endentulous tooth position in graft~4/1/2022~3/31/2023~$656.00
+D4320~Provisional splinting ‐ intercoronal~4/1/2022~3/31/2023~$527.00
+D4341~Periodontal scaling & root planning per quad 4 or more teeth~4/1/2022~3/31/2023~$176.00
+D4342~Periodontal scaling & root planning per quad 1‐3 teeth~4/1/2022~3/31/2023~$125.00
+D4355~Full mouth debridement to enable comprehensive evaluation and diagnosis~4/1/2022~3/31/2023~$176.00
+D4381~Localized delivery of antimicrobial agents via a controlled release vehicle- per tooth~4/1/2022~3/31/2023~$24.00
+D4910~Periodontal maintenance~4/1/2022~3/31/2023~$147.00
+D5110~Complete upper denture *Full set dentures require authorization*~4/1/2022~3/31/2023~$1,200.00
+D5120~Complete lower denture *Full set dentures require authorization*~4/1/2022~3/31/2023~$1,200.00
+D5130~Complete upper immediate denture *Full set dentures require authorization*~4/1/2022~3/31/2023~$1,200.00
+D5140~Complete lower immediate denture *Full set dentures require authorization*~4/1/2022~3/31/2023~$1,200.00
+D5211~Upper partial denture- resin base *if in conjunction with lower- requires authorization*~4/1/2022~3/31/2023~$1,000.00
+D5212~Lower partial denture- resin base *if in conjunction with upper- requires authorization*~4/1/2022~3/31/2023~$1,000.00
+D5213~Upper partial denture- cast metal framework with resin *if in conjunction with lower- requires authorization*~4/1/2022~3/31/2023~$1,200.00
+D5214~Lower partial denture- cast metal framework with resin *if in conjunction with upper- requires authorization*~4/1/2022~3/31/2023~$1,200.00
+D5225~Upper partial denture- flexible base  *if in conjunction with lower- requires authorization*~4/1/2022~3/31/2023~$1,200.00
+D5226~Lower partial denture- flexible base  *if in conjunction with upper- requires authorization*~4/1/2022~3/31/2023~$1,200.00
+D5410~Complete upper denture adjustment~4/1/2022~3/31/2023~$26.00
+D5411~Complete lower denture adjustment~4/1/2022~3/31/2023~$26.00
+D5421~Upper partial denture adjustment~4/1/2022~3/31/2023~$26.00
+D5422~Lower partial denture adjustment~4/1/2022~3/31/2023~$26.00
+D5511~Repair broken complete denture base- mandibular~4/1/2022~3/31/2023~$58.00
+D5512~Repair broken complete denture base- maxillary~4/1/2022~3/31/2023~$58.00
+D5520~Replace missing or broken tooth- complete denture~4/1/2022~3/31/2023~$150.00
+D5611~Repair resin partial denture base- mandibular~4/1/2022~3/31/2023~$60.00
+D5612~Repair resin partial denture base- maxillary~4/1/2022~3/31/2023~$60.00
+D5621~Repair cast framework- mandibular~4/1/2022~3/31/2023~$75.00
+D5622~Repair cast partial framework- maxillary~4/1/2022~3/31/2023~$75.00
+D5630~Repair/replace broken clasp~4/1/2022~3/31/2023~$87.00
+D5640~Replace broken teeth- per tooth~4/1/2022~3/31/2023~$65.00
+D5650~Add tooth to partial~4/1/2022~3/31/2023~$150.00
+D5660~Add clasp to partial~4/1/2022~3/31/2023~$150.00
+D5710~Rebase complete upper denture~4/1/2022~3/31/2023~$304.00
+D5711~Rebase complete lower denture~4/1/2022~3/31/2023~$304.00
+D5720~Rebase upper partial denture~4/1/2022~3/31/2023~$199.00
+D5721~Rebase lower partial denture~4/1/2022~3/31/2023~$199.00
+D5730~Reline complete upper denture- chairside~4/1/2022~3/31/2023~$130.00
+D5731~Reline complete lower denture- chairside~4/1/2022~3/31/2023~$130.00
+D5740~Reline partial upper denture~4/1/2022~3/31/2023~$129.00
+D5741~Reline partial lower denture~4/1/2022~3/31/2023~$129.00
+D5750~Reline complete upper denture- lab~4/1/2022~3/31/2023~$187.00
+D5751~Reline complete lower denture- lab~4/1/2022~3/31/2023~$187.00
+D5760~Reline complete upper or lower denture- lab~4/1/2022~3/31/2023~$176.00
+D5761~Reline partial upper or lower denture- lab~4/1/2022~3/31/2023~$176.00
+D5820~Interim partial upper denture~4/1/2022~3/31/2023~$250.00
+D5821~Interim partial lower denture~4/1/2022~3/31/2023~$250.00
+D5850~Tissue conditioning- maxillary~4/1/2022~3/31/2023~$30.00
+D5851~Tissue conditioning- mandibular~4/1/2022~3/31/2023~$30.00
+D5867~Replacement of replacable part of semi‐precision or precision attachment~4/1/2022~3/31/2023~$25.00
+D6010~Surgical placement of implant body: endosteal impant  **in support of LOWER DENTURE only- requires authorization~4/1/2022~3/31/2023~$2~021.00
+D6011~Second stage implant surgery **in support of LOWER DENTURE only- requires authorization~4/1/2022~3/31/2023~$890.00
+D6056~Prefabricated abutment- includes modification and placement  **in support of LOWER DENTURE only- requires authorization~4/1/2022~3/31/2023~$640.00
+D6057~Custom fabricated abutment- includes placement *requires authorization*~4/1/2022~3/31/2023~$500.00
+D6058~Abutment supported porcelain/ceramic crown *requires authorization*~4/1/2022~3/31/2023~$1,250.00
+D6059~Abutment supported porcelain fused metal crown *requires authorization*~4/1/2022~3/31/2023~$1,250.00
+D6080~Implant maintenance procedures~4/1/2022~3/31/2023~$128.00
+D6090~Repair implant supported prosthesis- by report~4/1/2022~3/31/2023~$175.00
+D6091~Replacement of semi‐precision or precision attachment of impant supported prosthesis~4/1/2022~3/31/2023~$450.00
+D6092~Re‐cement or re‐bond impant/abutment supported crown~4/1/2022~3/31/2023~$150.00
+D6095~Repair implant abutment- by report~4/1/2022~3/31/2023~$175.00
+D6100~Implant removal- by report~4/1/2022~3/31/2023~$640.00
+D6104~Bone graft at time of implant placement  **in support of LOWER DENTURE only- requires authorization~4/1/2022~3/31/2023~$675.00
+D6111~Implant/abutment supported removable denture for edentulous arch- mandibular *requires authorization*~4/1/2022~3/31/2023~$3~000.00
+D6190~Radiographic/surgical implant index- by report  **in support of LOWER DENTURE only- requires authorization~4/1/2022~3/31/2023~$450.00
+D6240~Pontic- porcelain fused to high noble metal~4/1/2022~3/31/2023~$900.00
+D6241~Pontic- porcelain fused to predominatly base metal~4/1/2022~3/31/2023~$800.00
+D6242~Pontic- porcelain fused to noble metal~4/1/2022~3/31/2023~$850.00
+D6245~Pontic- porcelain and ceramic~4/1/2022~3/31/2023~$900.00
+D6250~Pontic- resin with high noble metal~4/1/2022~3/31/2023~$800.00
+D6251~Pontic- resin with predominantly base metal~4/1/2022~3/31/2023~$780.00
+D6252~Pontic- resin with noble metal~4/1/2022~3/31/2023~$800.00
+D6740~Retainer crown- porcelain/ceramic~4/1/2022~3/31/2023~$900.00
+D6750~Crown- porcelain fused to high noble metal~4/1/2022~3/31/2023~$900.00
+D6751~Crown- porcelain fused to predominatly base metal~4/1/2022~3/31/2023~$800.00
+D6752~Crown- porcelain fused to noble metal~4/1/2022~3/31/2023~$850.00
+D6930~Re‐cement or re‐bond fixed partial denture~4/1/2022~3/31/2023~$54.00
+D7111~Extraction- coronal remnants- deciduous tooth~4/1/2022~3/31/2023~$59.00
+D7140~Extraction- erupted tooth or exposed root~4/1/2022~3/31/2023~$135.00
+D7210~Surgical removal of residual tooth roots cutting procedure~4/1/2022~3/31/2023~$299.00
+D7220~Removal of impacted tooth- soft tissue~4/1/2022~3/31/2023~$241.76
+D7230~Removal of impacted tooth- partially bony~4/1/2022~3/31/2023~$261.28
+D7240~Removal of impacted tooth- completely bony~4/1/2022~3/31/2023~$400.00
+D7241~Removal of impacted tooth- boy w/ unusual surgical complications~4/1/2022~3/31/2023~$450.00
+D7250~Surgical removal of residual tooth roots cutting procedure~4/1/2022~3/31/2023~$188.53
+D7270~Tooth re‐implantation and/or stabilization~4/1/2022~3/31/2023~$464.00
+D7285~Incisional biopsy of oral tissue- hard (bone or tooth)~4/1/2022~3/31/2023~$840.00
+D7286~Incisional biopsy of oral tissue- soft~4/1/2022~3/31/2023~$520.00
+D7310~Alveoplasty in conjunction with extractions- 4 or more teeth or spaces- per quadrant~4/1/2022~3/31/2023~$150.00
+D7311~Alveoplasty in conjunction with extractions- 1 to 3 teeth or spaces- per quadrant~4/1/2022~3/31/2023~$150.00
+D7320~Alveoplasty not in conjunction with extractions- 4 or more teeth or spaces- per quadrant~4/1/2022~3/31/2023~$150.00
+D7321~Alveoplasty not in conjunction with extractions- 1 to 3 teeth or spaces- per quadrant~4/1/2022~3/31/2023~$150.00
+D7410~Excision of benign lesion- up to 1.25 cm~4/1/2022~3/31/2023~$465.00
+D7411~Excision of benign lesion- greater than 1.25 cm~4/1/2022~3/31/2023~$780.00
+D7472~Removal of torus palantinus~4/1/2022~3/31/2023~$400.00
+D7473~Removal of torus mandibularis~4/1/2022~3/31/2023~$400.00
+D7460~Removal of benign nondotongenic cyst or tumor- lesion diameter up to 1.25 cm *limit 1 per year- unless authorized*~4/1/2022~3/31/2023~$982.00
+D7510~Incision & drainage of intraoral abscess~4/1/2022~3/31/2023~$250.00
+D7520~Incision & drainage of abscess extraoral soft tissue~4/1/2022~3/31/2023~$443.00
+D7550~Partial ostectomy/sequestrectomy for removal of non‐vital bone~4/1/2022~3/31/2023~$357.00
+D7880~Occlusal orthotic device~4/1/2022~3/31/2023~$520.00
+D7950~Osseous- osteoperiosteal or cartilage graft of the mandbible or maxila *REQUIRES AUTHORIZATION*~4/1/2022~3/31/2023~$1,400.00
+D7951~Sinus augmentation with bone or bone substitutes via a lateral open approach *REQUIRES AUTHORIZATION*~4/1/2022~3/31/2023~$1,986.00
+D7953~Bone replacement graft for ridge preservation- per site~4/1/2022~3/31/2023~$600.00
+D7960~Frenulectomy- separate procedure no incidental to another procedure~4/1/2022~3/31/2023~$150.00
+D9110~Palliative (emergency) treatment of dental main- minor procedure~4/1/2022~3/31/2023~$100.00
+D9120~fixed partial denture sectioning~4/1/2022~3/31/2023~$100.00
+D9222~Anesthesia services/deep sedation- first 15 mintes~4/1/2022~3/31/2023~$104.00
+D9223~Deep sedation/general anethesia- each additonal 15 minutes~4/1/2022~3/31/2023~$220.00
+D9230~Nitrous oxide~4/1/2022~3/31/2023~$35.00
+D9239~IV moderate conscious sedation/analgesia 1st 15 minutes~4/1/2022~3/31/2023~$192.00
+D9243~Intravenous moderate (conscious) sedation/analgesia- each15 minute increment~4/1/2022~3/31/2023~$230.00
+D9310~Consultation~4/1/2022~3/31/2023~$50.00
+D9248~Non‐intravenous conscious sedation~4/1/2022~3/31/2023~$260.00
+D9630~Other drugs and/or medications by report~4/1/2022~3/31/2023~$70.00
+D9942~Repair/Reline of occlusal guard~4/1/2022~3/31/2023~$75.00
+D9943~Occlusal guard adjustment~4/1/2022~3/31/2023~$50.00
+D9944~Occlusal guard‐ hard appliance- full arch~4/1/2022~3/31/2023~$176.00
+D9945~Occlusal guard‐ soft applaice- full arch~4/1/2022~3/31/2023~$176.00
+D9946~Occlusal guard‐ hard appliance- full arch~4/1/2022~3/31/2023~$176.00
+D9951~Occlusal guard adjustment limited~4/1/2022~3/31/2023~$75.00
+D9952~Occlusal guard adjustment complete~4/1/2022~3/31/2023~$150.00
+D9992~Dental case management ‐ care coordination~4/1/2022~3/31/2023~$41.00
